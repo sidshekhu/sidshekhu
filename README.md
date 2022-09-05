@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shadab Siddique
 - 👀 I’m interested in learning and implenting the new technology stack and be aware.
-- 🌱 I’m currently learning data structures and algorith and solving problems and apart from this i am also learnig Javascript
+- 🌱 I’m currently learning data structures and algorithm and solving problems and apart from this i am also having hands on Spring,JS
 - 💞️ I’m looking to collaborate on common technologies and new business ideas.
 - 📫 reach me at sidshekhu@gmail.com
 
